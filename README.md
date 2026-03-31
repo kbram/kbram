@@ -1,90 +1,79 @@
-# 👋 Hi, I'm Bavaram Karunaharan
+<div align="center">
 
-🚀 **Tech Lead | Senior Software Engineer | Full-Stack Developer**
+# Bavaram Karunaharan
 
-I’m a delivery-focused engineer with 5+ years of experience building scalable web and mobile applications across **e-commerce, SaaS, and government domains**. I specialize in designing high-performance systems and leading teams to deliver impactful products.
+**Tech Lead · Full-Stack Engineer · 5+ yrs**
 
----
+[![Portfolio](https://img.shields.io/badge/bavaram.info-000000?style=flat-square&logo=safari&logoColor=white)](https://www.bavaram.info)
+[![Email](https://img.shields.io/badge/nkbram95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nkbram95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/bavaram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bavaram/)
 
-## 🧑‍💻 About Me
-- 🔭 Currently working as **Tech Lead (Ruby on Rails)** at JAM Pvt Ltd  
-- 🌱 Exploring **AI, system design, and scalable architectures**
-- 👯 Open to collaborating on **innovative products & open-source**
-- 💬 Ask me about **Laravel, React, React Native, Next.js, DevOps**
-- 🌐 Portfolio: [www.bavaram.info](https://www.bavaram.info/)
-- 📫 Email: **nkbram95@gmail.com**
+</div>
 
 ---
 
-## ⚡ Tech Stack
+### What i do
 
-### 🖥️ Languages & Frameworks
-- PHP (Laravel), JavaScript, TypeScript
-- React, React Native, Next.js
-- Ruby on Rails
-- Node.js, Python
+Tech Lead at **JAM Pvt Ltd** — leading backend systems with Ruby on Rails, architecting scalable solutions, and managing engineering teams across e-commerce, SaaS, and government domains.
 
-### ⚙️ Tools & Platforms
-- AWS (EC2, S3), Docker
-- GitHub Actions, CI/CD
-- MySQL, MongoDB, Redis
-- Linux, Nginx, Apache
-
-### 🧠 Expertise
-- Scalable System Architecture
-- REST APIs & Microservices
-- DevOps & CI/CD Pipelines
-- Performance Optimization
-- UI/UX Collaboration (Figma)
+Currently reading an **M.Sc. in AI** @ SLIIT · Open to collaborating on innovative products & open-source.
 
 ---
 
-## 🏆 Experience Highlights
+### Stack
 
-### 💼 Tech Lead – JAM Pvt Ltd *(Current)*
-- Leading backend systems using **Ruby on Rails**
-- Architecting scalable solutions and managing engineering teams
+**Backend**
 
-### 💼 Senior Software Engineer – Web Lankan
-- Delivered enterprise systems in **e-commerce & healthcare**
-- Built platforms like:
-  - 🛒 E-commerce systems with **Next.js + Laravel**
-  - 📱 Mobile apps using **React Native**
-  - 🎓 LMS systems with complex workflows
-- Integrated payment gateways, ERP systems & real-time services
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 💼 Software Engineer – Axallant Tech
-- Developed a **SaaS platform from scratch**
-- Built high-performance frontend architecture using React
-- Implemented CI/CD and AWS deployments
+**Frontend & Mobile**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## 📦 NPM Packages
-- 📊 Image Chart – Charting with themed visuals
-- 🥧 Half Pie Chart – Animated React chart component
-- 🔐 AES Encryption Unlimited – Advanced encryption utility
-- 🍪 Encrypted Cookie – Secure cookie manager
+**Infra & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## 🎓 Education
-- 🎓 M.Sc. in Artificial Intelligence *(Reading)* – SLIIT  
-- 🎓 B.Sc (Hons.) ICT – University of Jaffna  
+### Shipped
+
+- 🛒 e-commerce platform — next.js + laravel + payment gateway + erp integration
+- 📱 cross-platform mobile apps — react native
+- 🎓 lms with complex workflows — real-time services
+- 🧪 saas platform from scratch — react frontend + ci/cd + aws
+
+**npm packages**
+
+[![half-pie-chart](https://img.shields.io/badge/npm-half--pie--chart-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/half-pie-chart)
+[![image-chart](https://img.shields.io/badge/npm-image--chart-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/image-chart)
+[![aes-encryption-unlimited](https://img.shields.io/badge/npm-aes--encryption--unlimited-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/aes-encryption-unlimited)
+[![encrypted-cookie](https://img.shields.io/badge/npm-encrypted--cookie-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/encrypted-cookie)
+[![encrypted-local-storage](https://img.shields.io/badge/npm-encrypted--local--storage-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/encrypted-local-storage)
 
 ---
 
-## 🔬 Research
-**Counterfeit Arduino Board Detection**  
-Used image processing (OCR, SIFT, edge detection) to identify fake hardware with high accuracy.
+### Activity
+
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kbram&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile)](https://github.com/kbram)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kbram&hide_border=true)](https://github.com/kbram)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kbram&layout=compact&hide_border=true)](https://github.com/kbram)
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: *(Add your link)*
-- 💻 GitHub: https://github.com/kbram
-- 📦 NPM: *(Add your profile link)*
-
----
-
-⭐ *"Building scalable systems. Leading teams. Delivering impact."*
+<div align="center">
+<sub>building scalable systems · leading teams · delivering impact</sub>
+</div>
