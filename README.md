@@ -15,8 +15,7 @@
 ### What i do
 
 Tech Lead at **JAM Pvt Ltd** — leading backend systems with Ruby on Rails, architecting scalable solutions, and managing engineering teams across e-commerce, SaaS, and government domains.
-
-Currently reading an **M.Sc. in AI** @ SLIIT · Open to collaborating on innovative products & open-source.
+Open to collaborating on innovative products & open-source.
 
 ---
 
@@ -46,13 +45,6 @@ Currently reading an **M.Sc. in AI** @ SLIIT · Open to collaborating on innovat
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-
-### Shipped
-
-- 🛒 e-commerce platform — next.js + laravel + payment gateway + erp integration
-- 📱 cross-platform mobile apps — react native
-- 🎓 lms with complex workflows — real-time services
-- 🧪 saas platform from scratch — react frontend + ci/cd + aws
 
 **npm packages**
 
