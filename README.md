@@ -1,71 +1,110 @@
 <div align="center">
 
-# Bavaram Karunaharan
-
-**Tech Lead · Full-Stack Engineer · 5+ yrs**
-
-[![Portfolio](https://img.shields.io/badge/bavaram.info-000000?style=flat-square&logo=safari&logoColor=white)](https://www.bavaram.info)
-[![Email](https://img.shields.io/badge/nkbram95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nkbram95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/bavaram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bavaram/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=bavaram.k&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn)
 
 </div>
 
 ---
 
-### What i do
+```bash
+bavaram@colombo:~$ whoami --verbose
+```
 
-Tech Lead at **JAM Pvt Ltd** — leading backend systems with Ruby on Rails, architecting scalable solutions, and managing engineering teams across e-commerce, SaaS, and government domains.
-Open to collaborating on innovative products & open-source.
-
----
-
-### Stack
-
-**Backend**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Infra & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+```text
+role         →  Tech Lead · Full-Stack Engineer
+company      →  JAM Pvt Ltd
+location     →  Colombo, Sri Lanka
+experience   →  5+ years
+current      →  Backend systems · Scalable architecture · Team leadership
+interests    →  Distributed systems · DevOps · Open source
+status       →  ● online
+```
 
 ---
 
-**npm packages**
+```bash
+bavaram@colombo:~$ ls stack/
+```
 
-[![half-pie-chart](https://img.shields.io/badge/npm-half--pie--chart-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/half-pie-chart)
-[![image-chart](https://img.shields.io/badge/npm-image--chart-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/image-chart)
-[![aes-encryption-unlimited](https://img.shields.io/badge/npm-aes--encryption--unlimited-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/aes-encryption-unlimited)
-[![encrypted-cookie](https://img.shields.io/badge/npm-encrypted--cookie-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/encrypted-cookie)
-[![encrypted-local-storage](https://img.shields.io/badge/npm-encrypted--local--storage-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/encrypted-local-storage)
+```text
+backend/
+├── ruby-on-rails
+├── laravel
+├── node.js
+└── python
+
+frontend/
+├── react
+├── next.js
+├── react-native
+└── typescript
+
+infra/
+├── aws
+├── docker
+├── github-actions
+├── mysql
+├── redis
+└── mongodb
+```
 
 ---
 
-### Activity
+```bash
+bavaram@colombo:~$ ls packages/ --registry=npm
+```
 
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kbram&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile)](https://github.com/kbram)
+```text
+01  half-pie-chart             →  half donut chart component
+02  image-chart                →  image-based chart rendering
+03  aes-encryption-unlimited   →  unrestricted AES encryption
+04  encrypted-cookie           →  secure encrypted cookies
+05  encrypted-local-storage    →  encrypted browser storage
+```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kbram&hide_border=true)](https://github.com/kbram)
+> install any → `npm i <package-name>`
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kbram&layout=compact&hide_border=true)](https://github.com/kbram)
+---
+
+```bash
+bavaram@colombo:~$ cat stats.txt
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kbram&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&theme=github_dark_dimmed&hide_title=true)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kbram&layout=compact&hide_border=true&theme=github_dark_dimmed&hide_title=true)
+
+![Streak](https://streak-stats.demolab.com?user=kbram&hide_border=true&theme=github-dark-blue)
+
+</div>
+
+---
+
+```bash
+bavaram@colombo:~$ contact --list
+```
+
+```text
+portfolio   →  bavaram.info
+email       →  nkbram95@gmail.com
+linkedin    →  linkedin.com/in/bavaram
+github      →  github.com/kbram
+```
+
+<div align="center">
+
+[![portfolio](https://img.shields.io/badge/bavaram.info-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://www.bavaram.info)
+[![email](https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:nkbram95@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/bavaram/)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>building scalable systems · leading teams · delivering impact</sub>
+<sub>// session active · kbram · all systems nominal ●</sub>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer)
