@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=bavaram.k&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=BAVARAM&fontSize=42&fontColor=58a6ff&fontAlignY=65&animation=fadeIn)
 
 </div>
 
